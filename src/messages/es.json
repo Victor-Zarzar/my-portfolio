@@ -1,8 +1,8 @@
 {
   "Layout": {
-    "title": "Victor Zarzar | Desarrollador Front-end Web & Mobile",
-    "description": "Desarrollador Front-end Web & Mobile con experiencia Full Stack en React, Next.js, TypeScript y Flutter, enfocado en rendimiento, SEO, accesibilidad, seguridad e interfaces escalables.",
-    "ogDescription": "Portafolio profesional con proyectos web y mobile modernos, arquitectura front-end, interfaces responsivas y tecnologías actualizadas."
+    "title": "Victor Zarzar | Analista de Infraestructura y DevOps",
+    "description": "Profesional de Infraestructura y DevOps con experiencia en Docker, Linux, Nginx, SQL, Python, observabilidad, automatización y despliegue de aplicaciones.",
+    "ogDescription": "Portafolio profesional con proyectos de infraestructura, DevOps, observabilidad, automatización, bases de datos e ingeniería de software."
   },
   "Manifest": {
     "name": "Portafolio Victor Zarzar",
@@ -38,8 +38,8 @@
   },
   "Header": {
     "h1": "Victor Zarzar",
-    "h2": "Desarrollador Front-end Web & Mobile",
-    "span": "Construyendo aplicaciones limpias, rápidas y fáciles de usar."
+    "h2": "Analista de Infraestructura y DevOps",
+    "span": "Portafolio profesional con proyectos de infraestructura, DevOps, observabilidad, automatización, bases de datos e ingeniería de software."
   },
   "Skills": {
     "h1": "Habilidades",
@@ -194,7 +194,7 @@
     "p": "Leer más",
     "year": "Año",
     "author": "Victor Zarzar",
-    "profession": "Desarrollador Front-end Web & Mobile"
+    "profession": "Analista de Infraestructura y DevOps"
   },
   "GlobalError": {
     "title": "Error de la aplicación",
