@@ -49,7 +49,7 @@ export default function Header() {
                 </span>
               </h2>
 
-              <p className="text-lg mt-1 mb-6 md:text-xl">
+              <p className="mt-1 mb-6 text-lg md:text-xl max-w-lg">
                 <span className="font-semibold text-neutral-600 dark:text-neutral-400">
                   {t("span")}
                 </span>
