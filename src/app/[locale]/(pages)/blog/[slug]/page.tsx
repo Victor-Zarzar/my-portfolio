@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import Image, { type ImageProps } from "next/image";
+import type { ImageProps } from "next/image";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { MDXRemote } from "next-mdx-remote-client/rsc";
