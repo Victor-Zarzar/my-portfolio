@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/Victor-Zarzar/my-portfolio/compare/v1.6.2...v1.6.3) (2026-07-01)
+
+
+### Bug Fixes
+
+* biome.json ([887eab9](https://github.com/Victor-Zarzar/my-portfolio/commit/887eab95915bb90f071dd0dedd7ec2cd54f2cc49))
+
 ## [1.6.2](https://github.com/Victor-Zarzar/my-portfolio/compare/v1.6.1...v1.6.2) (2026-05-18)
 
 
