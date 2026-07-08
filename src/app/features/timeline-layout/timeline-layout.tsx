@@ -57,9 +57,9 @@ export const TimelineLayout = () => {
                   <TimelineHeader className="flex flex-wrap items-center gap-2 mb-1">
                     <TimelineTime
                       className={cn(
-                        "font-mono text-[10px] tracking-wide",
+                        "text-[10px] tracking-wide",
                         "px-2 py-0.5 rounded",
-                        "shrink-0 transition-colors duration-200",
+                        "shrink-0 transition-colors duration-200 whitespace-nowrap",
                         "group-hover:border-border",
                       )}
                     >
@@ -113,7 +113,7 @@ export const TimelineLayout = () => {
                         {item.description}
                       </TimelineDescription>
                       {item.local && (
-                        <TimelineDescription className="text-[14px] tracking-wide">
+                        <TimelineDescription className="text-[14px] mt-2 md:mt-4 tracking-wide">
                           {item.local}
                         </TimelineDescription>
                       )}
