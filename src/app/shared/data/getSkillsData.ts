@@ -1,6 +1,5 @@
 import { Code2, Database, Layers, Smartphone } from "lucide-react";
 import { FaFigma } from "react-icons/fa";
-import { IoTerminal } from "react-icons/io5";
 import {
   SiAndroidstudio,
   SiDart,
@@ -13,6 +12,7 @@ import {
   SiGrafana,
   SiGraphql,
   SiJavascript,
+  SiKubernetes,
   SiMui,
   SiMysql,
   SiNextdotjs,
@@ -25,6 +25,7 @@ import {
   SiShadcnui,
   SiSqlite,
   SiTailwindcss,
+  SiTerraform,
   SiTypescript,
   SiVite,
   SiXcode,
@@ -77,9 +78,10 @@ export function getSkillsData(): SkillCategory[] {
       title: "DevOps & Infra",
       skills: [
         { icon: SiDocker, text: "Docker" },
+        { icon: SiKubernetes, text: "Kubernetes" },
         { icon: SiPortainer, text: "Portainer.io" },
         { icon: SiNginx, text: "Nginx" },
-        { icon: IoTerminal, text: "OpenSSH" },
+        { icon: SiTerraform, text: "Terraform" },
         { icon: SiGithubactions, text: "GitHub Actions" },
         { icon: SiGrafana, text: "Grafana" },
         { icon: SiSentry, text: "Sentry" },

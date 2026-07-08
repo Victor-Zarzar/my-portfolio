@@ -6,6 +6,27 @@ import type {
 export function getTimelineData({ t }: GetTimelineDataParams): Experience[] {
   return [
     {
+      id: 0,
+      type: "work",
+      time: t("freelance-1.time"),
+      title: t("freelance-1.title"),
+      role: t("freelance-1.role"),
+      achievements: t("freelance-1.achievements"),
+      description: t("freelance-1.description"),
+      local: t("freelance-1.local"),
+      tags: [
+        "Flutter",
+        "Dart",
+        "React",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "Nginx",
+        "Docker",
+        "PostgreSQL",
+      ],
+    },
+    {
       id: 1,
       type: "work",
       time: t("xlabs.time"),
@@ -26,7 +47,7 @@ export function getTimelineData({ t }: GetTimelineDataParams): Experience[] {
     },
     {
       id: 2,
-      type: "freelance",
+      type: "work",
       time: t("freelance.time"),
       title: t("freelance.title"),
       role: t("freelance.role"),
