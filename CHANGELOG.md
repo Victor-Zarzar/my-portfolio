@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.4](https://github.com/Victor-Zarzar/my-portfolio/compare/v1.6.3...v1.6.4) (2026-07-14)
+
+
+### Bug Fixes
+
+* migrate schema otp ([442a1da](https://github.com/Victor-Zarzar/my-portfolio/commit/442a1da0b6a7a4cfdc6a969a95f24a145faea7a4))
+* migrate schema otp ([442a1da](https://github.com/Victor-Zarzar/my-portfolio/commit/442a1da0b6a7a4cfdc6a969a95f24a145faea7a4))
+* migrate schema otp ([b439289](https://github.com/Victor-Zarzar/my-portfolio/commit/b439289791380e2169cd0c434203b1ec84812378))
+
 ## [1.6.3](https://github.com/Victor-Zarzar/my-portfolio/compare/v1.6.2...v1.6.3) (2026-07-01)
 
 
